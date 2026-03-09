@@ -1,17 +1,18 @@
 @import "tailwindcss";
 
 @theme {
-  --color-mosque-50: #f4f5f2;
-  --color-mosque-100: #e4e7df;
-  --color-mosque-200: #cbcfc3;
-  --color-mosque-300: #aeb4a3;
-  --color-mosque-400: #939a85;
-  --color-mosque-500: #767F68;
-  --color-mosque-600: #5f6652;
-  --color-mosque-700: #4a5140;
-  --color-mosque-800: #3b4034;
-  --color-mosque-900: #31362d;
-  --color-mosque-950: #191c16;
+  --color-mosque-50: #f5f8f2;
+  --color-mosque-100: #e7ece1;
+  --color-mosque-200: #cfdac4;
+  --color-mosque-300: #afc0a0;
+  --color-mosque-400: #8da17a;
+  --color-mosque-500: #6d7a5b;
+  /* Vert olive plus soutenu et chaud */
+  --color-mosque-600: #576348;
+  --color-mosque-700: #46503b;
+  --color-mosque-800: #394231;
+  --color-mosque-900: #2f362a;
+  --color-mosque-950: #171c14;
 
   --color-mosque-gold-400: #fbe789;
   --color-mosque-gold-500: #F8D861;

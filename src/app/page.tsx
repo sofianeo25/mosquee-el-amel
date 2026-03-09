@@ -8,11 +8,11 @@ export default function Home() {
       <header className="absolute top-0 w-full z-50 p-6">
         <div className="max-w-7xl mx-auto flex justify-between items-center glass-panel px-6 py-4 rounded-2xl">
           <div className="flex items-center gap-3 border-b-2 border-mosque-gold-500 pb-1">
-            <Image 
-              src="/logo.jpg" 
-              alt="Logo Al Amal" 
-              width={40} 
-              height={40} 
+            <Image
+              src="/logo.jpg"
+              alt="Logo Al Amal"
+              width={40}
+              height={40}
               className="rounded-full object-cover border border-mosque-200 dark:border-mosque-800"
             />
             <div className="text-xl font-bold tracking-wider text-mosque-900 dark:text-white">
@@ -79,7 +79,7 @@ export default function Home() {
             {/* Mawaqit Widget */}
             <div className="w-full max-w-lg h-[500px] overflow-hidden bg-mosque-50 dark:bg-mosque-950 rounded-2xl flex justify-center border border-mosque-100 dark:border-mosque-800 shadow-inner">
               <iframe
-                src="https://mawaqit.net/fr/w/mosquee-el-amel-valserhone?showMessage=0"
+                src="https://mawaqit.net/fr/w/m-bellegarde-1?showMessage=0"
                 className="w-full h-full border-none"
                 title="Horaires de prière Mawaqit"
                 loading="lazy"

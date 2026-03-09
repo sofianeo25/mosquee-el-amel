@@ -1,21 +1,21 @@
 @import "tailwindcss";
 
 @theme {
-  --color-mosque-50: #f0fdf4;
-  --color-mosque-100: #dcfce7;
-  --color-mosque-200: #bbf7d0;
-  --color-mosque-300: #86efac;
-  --color-mosque-400: #4ade80;
-  --color-mosque-500: #22c55e;
-  --color-mosque-600: #16a34a;
-  --color-mosque-700: #15803d;
-  --color-mosque-800: #166534;
-  --color-mosque-900: #14532d;
-  --color-mosque-950: #052e16;
+  --color-mosque-50: #f4f5f2;
+  --color-mosque-100: #e4e7df;
+  --color-mosque-200: #cbcfc3;
+  --color-mosque-300: #aeb4a3;
+  --color-mosque-400: #939a85;
+  --color-mosque-500: #767F68;
+  --color-mosque-600: #5f6652;
+  --color-mosque-700: #4a5140;
+  --color-mosque-800: #3b4034;
+  --color-mosque-900: #31362d;
+  --color-mosque-950: #191c16;
 
-  --color-mosque-gold-400: #fbbf24;
-  --color-mosque-gold-500: #f59e0b;
-  --color-mosque-gold-600: #d97706;
+  --color-mosque-gold-400: #fbe789;
+  --color-mosque-gold-500: #F8D861;
+  --color-mosque-gold-600: #f5c430;
 
   --font-sans: var(--font-outfit), ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
@@ -27,8 +27,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #052e16;
-    --foreground: #f8fafc;
+    --background: #191c16;
+    --foreground: #f4f5f2;
   }
 }
 

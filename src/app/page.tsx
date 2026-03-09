@@ -176,7 +176,7 @@ export default function Home() {
             {/* Formulaire utilisant Web3Forms pour gratuité sans back-end */}
             <form action="https://api.web3forms.com/submit" method="POST" className="space-y-5">
               {/* Remplacez la clé ici par votre clé générée sur https://web3forms.com/ */}
-              <input type="hidden" name="access_key" value="VOTRE_CLE_WEB3FORMS_ICI" />
+              <input type="hidden" name="access_key" value="f412cf7a-f67b-4464-bd4c-040e83aff383" />
               <input type="hidden" name="subject" value="Nouvelle Inscription - Cours d'Arabe Mosquée" />
               <input type="checkbox" name="botcheck" className="hidden" style={{ display: 'none' }} />
 
